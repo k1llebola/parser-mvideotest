@@ -1,0 +1,807 @@
+{
+    "30059511": {
+        "item_basePrice": 39999,
+        "item_salePrice": 33999,
+        "item_bonus": 6800
+    },
+    "30064607": {
+        "item_basePrice": 19999,
+        "item_salePrice": 19999,
+        "item_bonus": 4000
+    },
+    "30064606": {
+        "item_basePrice": 24999,
+        "item_salePrice": 24999,
+        "item_bonus": 5000
+    },
+    "30064610": {
+        "item_basePrice": 11999,
+        "item_salePrice": 11999,
+        "item_bonus": 2400
+    },
+    "30064611": {
+        "item_basePrice": 15599,
+        "item_salePrice": 14499,
+        "item_bonus": 2900
+    },
+    "30045322": {
+        "item_basePrice": 11199,
+        "item_salePrice": 11199,
+        "item_bonus": 2240
+    },
+    "30057503": {
+        "item_basePrice": 45999,
+        "item_salePrice": 39999,
+        "item_bonus": 8000
+    },
+    "30064492": {
+        "item_basePrice": 21299,
+        "item_salePrice": 21299,
+        "item_bonus": 4260
+    },
+    "30057504": {
+        "item_basePrice": 59999,
+        "item_salePrice": 54599,
+        "item_bonus": 10920
+    },
+    "30063810": {
+        "item_basePrice": 13999,
+        "item_salePrice": 13999,
+        "item_bonus": 2800
+    },
+    "30059510": {
+        "item_basePrice": 14999,
+        "item_salePrice": 11999,
+        "item_bonus": 2400
+    },
+    "30057091": {
+        "item_basePrice": 12999,
+        "item_salePrice": 12999,
+        "item_bonus": 2600
+    },
+    "30063888": {
+        "item_basePrice": 12299,
+        "item_salePrice": 12299,
+        "item_bonus": 2460
+    },
+    "30059512": {
+        "item_basePrice": 29999,
+        "item_salePrice": 24999,
+        "item_bonus": 5000
+    },
+    "30058309": {
+        "item_basePrice": 15999,
+        "item_salePrice": 15999,
+        "item_bonus": 3200
+    },
+    "30064466": {
+        "item_basePrice": 5999,
+        "item_salePrice": 4999,
+        "item_bonus": 1000
+    },
+    "30064609": {
+        "item_basePrice": 16999,
+        "item_salePrice": 16999,
+        "item_bonus": 3400
+    },
+    "30050968": {
+        "item_basePrice": 16999,
+        "item_salePrice": 16999,
+        "item_bonus": 3400
+    },
+    "30064559": {
+        "item_basePrice": 12999,
+        "item_salePrice": 10999,
+        "item_bonus": 2200
+    },
+    "30060664": {
+        "item_basePrice": 10799,
+        "item_salePrice": 7999,
+        "item_bonus": 1600
+    },
+    "30064558": {
+        "item_basePrice": 7299,
+        "item_salePrice": 6499,
+        "item_bonus": 1300
+    },
+    "30063630": {
+        "item_basePrice": 11999,
+        "item_salePrice": 11999,
+        "item_bonus": 2400
+    },
+    "30040212": {
+        "item_basePrice": 17199,
+        "item_salePrice": 17199,
+        "item_bonus": 3440
+    },
+    "30064580": {
+        "item_basePrice": 13999,
+        "item_salePrice": 13999,
+        "item_bonus": 2800
+    },
+    "30058870": {
+        "item_basePrice": 16299,
+        "item_salePrice": 16299,
+        "item_bonus": 3260
+    },
+    "30054970": {
+        "item_basePrice": 21899,
+        "item_salePrice": 21899,
+        "item_bonus": 4380
+    },
+    "30063269": {
+        "item_basePrice": 15999,
+        "item_salePrice": 15999,
+        "item_bonus": 3200
+    },
+    "30062295": {
+        "item_basePrice": 16699,
+        "item_salePrice": 16699,
+        "item_bonus": 3340
+    },
+    "30059587": {
+        "item_basePrice": 21299,
+        "item_salePrice": 21299,
+        "item_bonus": 4260
+    },
+    "30060161": {
+        "item_basePrice": 10999,
+        "item_salePrice": 10999,
+        "item_bonus": 2200
+    },
+    "30057090": {
+        "item_basePrice": 10799,
+        "item_salePrice": 10799,
+        "item_bonus": 2160
+    },
+    "30060665": {
+        "item_basePrice": 11799,
+        "item_salePrice": 8499,
+        "item_bonus": 1700
+    },
+    "30064590": {
+        "item_basePrice": 16999,
+        "item_salePrice": 16999,
+        "item_bonus": 3400
+    },
+    "30064592": {
+        "item_basePrice": 35999,
+        "item_salePrice": 35999,
+        "item_bonus": 7200
+    },
+    "30059474": {
+        "item_basePrice": 18999,
+        "item_salePrice": 18999,
+        "item_bonus": 3800
+    },
+    "30045324": {
+        "item_basePrice": 18499,
+        "item_salePrice": 18499,
+        "item_bonus": 3700
+    },
+    "30064581": {
+        "item_basePrice": 13999,
+        "item_salePrice": 13999,
+        "item_bonus": 2800
+    },
+    "30056697": {
+        "item_basePrice": 21199,
+        "item_salePrice": 21199,
+        "item_bonus": 4240
+    },
+    "50133651": {
+        "item_basePrice": 1699,
+        "item_salePrice": 1699,
+        "item_bonus": 340
+    },
+    "30054814": {
+        "item_basePrice": 18599,
+        "item_salePrice": 18599,
+        "item_bonus": 3720
+    },
+    "30039087": {
+        "item_basePrice": 16799,
+        "item_salePrice": 16799,
+        "item_bonus": 3360
+    },
+    "30046722": {
+        "item_basePrice": 23799,
+        "item_salePrice": 23799,
+        "item_bonus": 4760
+    },
+    "30057915": {
+        "item_basePrice": 25499,
+        "item_salePrice": 25499,
+        "item_bonus": 5100
+    },
+    "30062292": {
+        "item_basePrice": 34999,
+        "item_salePrice": 34999,
+        "item_bonus": 7000
+    },
+    "30041167": {
+        "item_basePrice": 16499,
+        "item_salePrice": 16499,
+        "item_bonus": 3300
+    },
+    "30057949": {
+        "item_basePrice": 19999,
+        "item_salePrice": 19999,
+        "item_bonus": 4000
+    },
+    "30054775": {
+        "item_basePrice": 12999,
+        "item_salePrice": 12999,
+        "item_bonus": 2600
+    },
+    "400026356": {
+        "item_basePrice": 16999,
+        "item_salePrice": 16999,
+        "item_bonus": 3400
+    },
+    "30050945": {
+        "item_basePrice": 16299,
+        "item_salePrice": 16299,
+        "item_bonus": 3260
+    },
+    "30063811": {
+        "item_basePrice": 13499,
+        "item_salePrice": 13499,
+        "item_bonus": 2700
+    },
+    "30052582": {
+        "item_basePrice": 19999,
+        "item_salePrice": 19999,
+        "item_bonus": 4000
+    },
+    "30063812": {
+        "item_basePrice": 15999,
+        "item_salePrice": 15999,
+        "item_bonus": 3200
+    },
+    "30063813": {
+        "item_basePrice": 17999,
+        "item_salePrice": 17999,
+        "item_bonus": 3600
+    },
+    "400027796": {
+        "item_basePrice": 9499,
+        "item_salePrice": 9499,
+        "item_bonus": 1900
+    },
+    "30051548": {
+        "item_basePrice": 13999,
+        "item_salePrice": 13999,
+        "item_bonus": 2800
+    },
+    "30054992": {
+        "item_basePrice": 12999,
+        "item_salePrice": 12999,
+        "item_bonus": 2600
+    },
+    "30063267": {
+        "item_basePrice": 17999,
+        "item_salePrice": 17999,
+        "item_bonus": 3600
+    },
+    "30043975": {
+        "item_basePrice": 17599,
+        "item_salePrice": 17599,
+        "item_bonus": 3520
+    },
+    "30059771": {
+        "item_basePrice": 35599,
+        "item_salePrice": 35599,
+        "item_bonus": 7120
+    },
+    "30060078": {
+        "item_basePrice": 23899,
+        "item_salePrice": 23899,
+        "item_bonus": 4780
+    },
+    "30054149": {
+        "item_basePrice": 14399,
+        "item_salePrice": 14399,
+        "item_bonus": 2880
+    },
+    "30058722": {
+        "item_basePrice": 16699,
+        "item_salePrice": 16699,
+        "item_bonus": 3340
+    },
+    "30050939": {
+        "item_basePrice": 11499,
+        "item_salePrice": 11499,
+        "item_bonus": 2300
+    },
+    "30064469": {
+        "item_basePrice": 9999,
+        "item_salePrice": 9999,
+        "item_bonus": 2000
+    },
+    "400027798": {
+        "item_basePrice": 8999,
+        "item_salePrice": 8999,
+        "item_bonus": 1800
+    },
+    "30046073": {
+        "item_basePrice": 13499,
+        "item_salePrice": 13499,
+        "item_bonus": 2700
+    },
+    "30057914": {
+        "item_basePrice": 14499,
+        "item_salePrice": 14499,
+        "item_bonus": 2900
+    },
+    "30064600": {
+        "item_basePrice": 23999,
+        "item_salePrice": 23999,
+        "item_bonus": 4800
+    },
+    "400011043": {
+        "item_basePrice": 24199,
+        "item_salePrice": 24199,
+        "item_bonus": 4840
+    },
+    "30054969": {
+        "item_basePrice": 19999,
+        "item_salePrice": 19999,
+        "item_bonus": 4000
+    },
+    "30046721": {
+        "item_basePrice": 21599,
+        "item_salePrice": 21599,
+        "item_bonus": 4320
+    },
+    "400027799": {
+        "item_basePrice": 23799,
+        "item_salePrice": 23799,
+        "item_bonus": 4760
+    },
+    "30054542": {
+        "item_basePrice": 9999,
+        "item_salePrice": 9999,
+        "item_bonus": 2000
+    },
+    "400027797": {
+        "item_basePrice": 18999,
+        "item_salePrice": 18999,
+        "item_bonus": 3800
+    },
+    "50167055": {
+        "item_basePrice": 2399,
+        "item_salePrice": 2399,
+        "item_bonus": 480
+    },
+    "30058723": {
+        "item_basePrice": 13999,
+        "item_salePrice": 13999,
+        "item_bonus": 2800
+    },
+    "30060817": {
+        "item_basePrice": 19999,
+        "item_salePrice": 19999,
+        "item_bonus": 4000
+    },
+    "50124739": {
+        "item_basePrice": 2499,
+        "item_salePrice": 2499,
+        "item_bonus": 500
+    },
+    "30064602": {
+        "item_basePrice": 43999,
+        "item_salePrice": 43999,
+        "item_bonus": 8800
+    },
+    "30061001": {
+        "item_basePrice": 31499,
+        "item_salePrice": 31499,
+        "item_bonus": 6300
+    },
+    "50171789": {
+        "item_basePrice": 1199,
+        "item_salePrice": 1199,
+        "item_bonus": 240
+    },
+    "30065390": {
+        "item_basePrice": 22899,
+        "item_salePrice": 22899,
+        "item_bonus": 4580
+    },
+    "50133650": {
+        "item_basePrice": 1999,
+        "item_salePrice": 1999,
+        "item_bonus": 400
+    },
+    "30059724": {
+        "item_basePrice": 15499,
+        "item_salePrice": 15499,
+        "item_bonus": 3100
+    },
+    "30061971": {
+        "item_basePrice": 26999,
+        "item_salePrice": 26999,
+        "item_bonus": 5400
+    },
+    "30063815": {
+        "item_basePrice": 35999,
+        "item_salePrice": 35999,
+        "item_bonus": 7200
+    },
+    "30029580": {
+        "item_basePrice": 38799,
+        "item_salePrice": 38799,
+        "item_bonus": 7760
+    },
+    "50172540": {
+        "item_basePrice": 1899,
+        "item_salePrice": 1899,
+        "item_bonus": 380
+    },
+    "50167054": {
+        "item_basePrice": 1899,
+        "item_salePrice": 1899,
+        "item_bonus": 380
+    },
+    "50133660": {
+        "item_basePrice": 2999,
+        "item_salePrice": 2999,
+        "item_bonus": 600
+    },
+    "50153370": {
+        "item_basePrice": 3999,
+        "item_salePrice": 3999,
+        "item_bonus": 800
+    },
+    "30065389": {
+        "item_basePrice": 24299,
+        "item_salePrice": 24299,
+        "item_bonus": 4860
+    },
+    "30064268": {
+        "item_basePrice": 15499,
+        "item_salePrice": 15499,
+        "item_bonus": 3100
+    },
+    "50124735": {
+        "item_basePrice": 3999,
+        "item_salePrice": 3999,
+        "item_bonus": 800
+    },
+    "30059725": {
+        "item_basePrice": 16599,
+        "item_salePrice": 16599,
+        "item_bonus": 3320
+    },
+    "30059586": {
+        "item_basePrice": 31499,
+        "item_salePrice": 31499,
+        "item_bonus": 6300
+    },
+    "50135845": {
+        "item_basePrice": 2399,
+        "item_salePrice": 2399,
+        "item_bonus": 480
+    },
+    "30036675": {
+        "item_basePrice": 72999,
+        "item_salePrice": 72999,
+        "item_bonus": 14600
+    },
+    "30046438": {
+        "item_basePrice": 11999,
+        "item_salePrice": 11999,
+        "item_bonus": 2400
+    },
+    "30045018": {
+        "item_basePrice": 25299,
+        "item_salePrice": 25299,
+        "item_bonus": 5060
+    },
+    "30027652": {
+        "item_basePrice": 15899,
+        "item_salePrice": 15899,
+        "item_bonus": 3180
+    },
+    "30040363": {
+        "item_basePrice": 46799,
+        "item_salePrice": 46799,
+        "item_bonus": 9360
+    },
+    "30027197": {
+        "item_basePrice": 7999,
+        "item_salePrice": 7999,
+        "item_bonus": 1600
+    },
+    "30050934": {
+        "item_basePrice": 34399,
+        "item_salePrice": 34399,
+        "item_bonus": 6880
+    },
+    "30056634": {
+        "item_basePrice": 10499,
+        "item_salePrice": 10499,
+        "item_bonus": 2100
+    },
+    "30060666": {
+        "item_basePrice": 14999,
+        "item_salePrice": 14999,
+        "item_bonus": 3000
+    },
+    "30043680": {
+        "item_basePrice": 80999,
+        "item_salePrice": 80999,
+        "item_bonus": 16200
+    },
+    "30047715": {
+        "item_basePrice": 49999,
+        "item_salePrice": 49999,
+        "item_bonus": 10000
+    },
+    "50124736": {
+        "item_basePrice": 4199,
+        "item_salePrice": 4199,
+        "item_bonus": 840
+    },
+    "30046076": {
+        "item_basePrice": 12499,
+        "item_salePrice": 12499,
+        "item_bonus": 2500
+    },
+    "30066135": {
+        "item_basePrice": 14999,
+        "item_salePrice": 14999,
+        "item_bonus": 3000
+    },
+    "30025263": {
+        "item_basePrice": 8799,
+        "item_salePrice": 8799,
+        "item_bonus": 1760
+    },
+    "30055548": {
+        "item_basePrice": 27499,
+        "item_salePrice": 27499,
+        "item_bonus": 5500
+    },
+    "50135846": {
+        "item_basePrice": 1299,
+        "item_salePrice": 1299,
+        "item_bonus": 260
+    },
+    "50135844": {
+        "item_basePrice": 2599,
+        "item_salePrice": 2599,
+        "item_bonus": 520
+    },
+    "50135848": {
+        "item_basePrice": 2999,
+        "item_salePrice": 2999,
+        "item_bonus": 600
+    },
+    "30040365": {
+        "item_basePrice": 25299,
+        "item_salePrice": 25299,
+        "item_bonus": 5060
+    },
+    "30046535": {
+        "item_basePrice": 26199,
+        "item_salePrice": 26199,
+        "item_bonus": 5240
+    },
+    "50124738": {
+        "item_basePrice": 1899,
+        "item_salePrice": 1899,
+        "item_bonus": 380
+    },
+    "30058881": {
+        "item_basePrice": 13999,
+        "item_salePrice": 13999,
+        "item_bonus": 2800
+    },
+    "50135847": {
+        "item_basePrice": 2099,
+        "item_salePrice": 2099,
+        "item_bonus": 420
+    },
+    "4100790": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "30056638": {
+        "item_basePrice": 11999,
+        "item_salePrice": 11999,
+        "item_bonus": 2400
+    },
+    "4100801": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "30055558": {
+        "item_basePrice": 35199,
+        "item_salePrice": 35199,
+        "item_bonus": 7040
+    },
+    "30052654": {
+        "item_basePrice": 38999,
+        "item_salePrice": 38999,
+        "item_bonus": 7800
+    },
+    "30053140": {
+        "item_basePrice": 10499,
+        "item_salePrice": 10499,
+        "item_bonus": 2100
+    },
+    "4100775": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1690,
+        "item_bonus": 338
+    },
+    "30052587": {
+        "item_basePrice": 21499,
+        "item_salePrice": 21499,
+        "item_bonus": 4300
+    },
+    "30044634": {
+        "item_basePrice": 31790,
+        "item_salePrice": 31790,
+        "item_bonus": 6358
+    },
+    "4100785": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    },
+    "4100798": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "4100787": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1290,
+        "item_bonus": 258
+    },
+    "4100794": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1290,
+        "item_bonus": 258
+    },
+    "4100786": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "4100769": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1690,
+        "item_bonus": 338
+    },
+    "4100802": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "4100784": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    },
+    "4100782": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    },
+    "4100789": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1290,
+        "item_bonus": 258
+    },
+    "30031417": {
+        "item_basePrice": 10199,
+        "item_salePrice": 10199,
+        "item_bonus": 2040
+    },
+    "4100800": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "4100783": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    },
+    "30051553": {
+        "item_basePrice": 31899,
+        "item_salePrice": 31899,
+        "item_bonus": 6380
+    },
+    "4100795": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "4100799": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "4100778": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    },
+    "4100772": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    },
+    "4100770": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    },
+    "4100797": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "4100792": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "4100780": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    },
+    "4100779": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    },
+    "4100773": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    },
+    "4100796": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "4100793": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "4100774": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    },
+    "4100781": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    },
+    "4100791": {
+        "item_basePrice": 1590,
+        "item_salePrice": 1590,
+        "item_bonus": 318
+    },
+    "4100776": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1690,
+        "item_bonus": 338
+    },
+    "4100777": {
+        "item_basePrice": 1990,
+        "item_salePrice": 1990,
+        "item_bonus": 398
+    }
+}
